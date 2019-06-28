@@ -278,7 +278,7 @@ def main():
 
 if __name__ == '__main__':
     threads_count = 10
-    filename = 'output/x/x_link.txt'
+    filename = 'output/url/url_link.txt'
 
     start_time = main()
     
