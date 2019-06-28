@@ -142,7 +142,7 @@ def main():
 
 if __name__ == '__main__':
     threads_count = 200
-    filename = 'output/x/x_nmap.txt'
+    filename = 'output/url/url_nmap.txt'
 
     start_time = main()
     
