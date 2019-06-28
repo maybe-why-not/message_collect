@@ -132,7 +132,7 @@ def main():
 
 if __name__ == '__main__':
     threads_count = 200
-    filename = 'x.txt'
+    filename = 'url.txt'
     
     ip_list = []    
     huace_ip_list = []
