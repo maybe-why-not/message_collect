@@ -125,9 +125,9 @@ def main():
     return start_time
 
 if __name__ == '__main__':
-    threads_count = 200
+    threads_count = 200#线程数
     time_out = 30
-    filename = 'C:/Users/liulangmao/Desktop/16992'
+    filename = 'C:/Users/liulangmao/Desktop/16992'#文件名
 
     start_time = main()
     
